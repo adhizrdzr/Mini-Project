@@ -1,0 +1,47 @@
+.body {
+  background-color: black;
+}
+/* Navbar */
+.navbar-brand, .nav-link {
+  color: white !important;
+}
+
+.navbar-brand {
+  font-family: "Vidaloka", serif;
+  font-size: 28px;
+}
+
+/* Jumbotron */
+.jumbotron {
+    background-image: url(img/IMG_20220116_224632.jpg);
+    background-size: cover;
+    height: 640px;
+}
+
+/* Desktop Version */
+@media (min-width: 992px) {
+  .nav-link {
+    font-family: "IBM Plex Sans", sans-serif;
+    margin-right: 5px;
+    text-transform: uppercase;
+  }
+
+  .nav-link:hover::after {
+    content: "";
+    display: block;
+    border-bottom: solid #a0e418;
+    border-radius: 2px;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 3px;
+    margin-bottom: -8px;
+  }
+
+  .nav-link:hover {
+    color: #a0e418 !important;
+  }
+
+  .jumbotron {
+    margin-top: -70px;
+  }
+}
