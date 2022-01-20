@@ -19,7 +19,7 @@
   </head>
   <body>
     <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-dark">
+  <nav class="navbar navbar-dark navbar-expand-lg bg-dark">
   <div class="container">
     <img src="img/69960061_103558497703856_4205201380001972224_n-removebg-preview.png" width="70" Height="50" alt="">
     <a class="navbar-brand text-white" href="#">STEI BINA CIPTA MADANI</a>
@@ -51,15 +51,101 @@
     <!-- Akhir Navbar -->
 
     <!-- Jumbotron -->
-  <div class="jumbotron jumbotron-fluid">
+  <div class="jumbotron jumbotron-fluid start">
     <div class="container">
-      <h1 class="display-4">Fluid jumbotron</h1>
-      <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+      <h1 class="display-4">Kampus Pertama Berbasis <br> <span>Syariah</span> Di <span>Karawang</span></h1>
+      <a href="" class="btn btn-success tombol">Contact Us</a>
     </div>
   </div>
     <!-- Akhir Jumbotron -->
 
+  <div class="container">
+      <h1 class="brt">Berita Universitas</h1>
+  </div>
 
+    <!-- HL dan Terbaru -->
+    <!-- post image -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row">
+
+          <div class="col py-md-6">
+            <a href=""><img src="img/1.jpg" width="550" height="300" alt="Wisuda Angkatan Kedua, STEI Bina Cipta Madani Luluskan 55 Wisudawan"></a>
+          </div>
+
+          <div class="col py-md-6">
+            <span class="text-muted date">30 Juni 2019</span>
+            <h3>
+              <a class="judul" href="">
+                Wisuda Angkatan Kedua, STEI Bina Cipta Madani Luluskan 55 Wisudawan
+              </a>
+            </h3>
+            <p class="text-muted isihl">KARAWANG, TVBERITA.CO.ID- STEI (Sekolah Tinggi Ekonomi Islam) Bina Cipta Madani Karawang mewisuda 55 lulusan angkatan kedua tahun 2019, kemarin, Sabtu (29/6) di Hotel Swiss Belinn Karawang. Terdiri dari 30 wisudawan dan 25 wisudawati.[...]</p>
+            <div class="btn btn-link tombol1">Selengkapnya</div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+    <!-- Akhir Hl -->
+    <!-- Card -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row list">
+
+            <div class="col py-md-4 list1">
+              <a href=""><img src="img/2.jpg" width="350" height="220" alt=""></a>
+              <h3>
+                <a class="judul" href="">
+                  Judul Berita
+                </a>
+              </h3>
+              <p class="text-muted">
+                Rangkuman isi berita thumbnail[...]
+              </p>
+              <div class="btn btn-link tombol1">Selengkapnya</div>
+            </div>
+
+            <div class="col py-md-4 list1">
+              <a href=""><img src="img/3.jpg" width="350" height="220" alt=""></a>
+              <h3>
+                <a class="judul" href="">
+                  Judul Berita
+                </a>
+              </h3>
+              <p class="text-muted">
+                Rangkuman isi berita thumbnail[...]
+              </p>
+              <div class="btn btn-link tombol1">Selengkapnya</div>
+            </div>
+            
+            <div class="col py-md-4 list1">
+              <a href=""><img src="img/4.jpg" width="350" height="220" alt=""></a>
+              <h3>
+                <a class="judul" href="">
+                  Judul Berita
+                </a>
+              </h3>
+              <p class="text-muted">
+                Rangkuman isi berita thumbnail[...]
+              </p>
+              <div class="btn btn-link tombol1">Selengkapnya</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- akhir card -->
+    <!-- Pengumuman -->
+    <div class="container">
+      <h1 class="brt">Berita Universitas</h1>
+  </div>
+    <!-- akhir pengumuman -->
 
 
 
