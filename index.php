@@ -21,7 +21,7 @@
     <!-- Navbar -->
   <nav class="navbar navbar-dark navbar-expand-lg bg-dark">
   <div class="container">
-    <img src="img/69960061_103558497703856_4205201380001972224_n-removebg-preview.png" width="70" Height="50" alt="">
+    <img class="img-fluid" src="img/69960061_103558497703856_4205201380001972224_n-removebg-preview.png" width="70" Height="50" alt="">
     <a class="navbar-brand text-white" href="#">STEI BINA CIPTA MADANI</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -71,7 +71,7 @@
         <div class="row">
 
           <div class="col py-md-6">
-            <a href=""><img src="img/1.jpg" width="550" height="300" alt="Wisuda Angkatan Kedua, STEI Bina Cipta Madani Luluskan 55 Wisudawan"></a>
+            <a href=""><img class="img-fluid" src="img/1.jpg" width="550" height="300" alt="Wisuda Angkatan Kedua, STEI Bina Cipta Madani Luluskan 55 Wisudawan"></a>
           </div>
 
           <div class="col py-md-6">
@@ -96,8 +96,8 @@
         <div class="col-md-12">
           <div class="row list">
 
-            <div class="col py-md-4">
-              <a href=""><img src="img/2.jpg" width="350" height="220" alt=""></a>
+            <div class="col-md-4 py-4">
+              <a href=""><img class="" src="img/2.jpg" width="350" height="220" alt=""></a>
               <h3>
                 <a class="judul" href="">
                   Judul Berita
@@ -109,8 +109,8 @@
               <div class="btn btn-link tombol1">Selengkapnya</div>
             </div>
 
-            <div class="col py-md-4">
-              <a href=""><img src="img/3.jpg" width="350" height="220" alt=""></a>
+            <div class="col-md-4 py-4">
+              <a href=""><img class="" src="img/3.jpg" width="350" height="220" alt=""></a>
               <h3>
                 <a class="judul" href="">
                   Judul Berita
@@ -122,8 +122,8 @@
               <div class="btn btn-link tombol1">Selengkapnya</div>
             </div>
             
-            <div class="col py-md-4">
-              <a href=""><img src="img/4.jpg" width="350" height="220" alt=""></a>
+            <div class="col-md-4 py-4">
+              <a href=""><img class="" src="img/4.jpg" width="350" height="220" alt=""></a>
               <h3>
                 <a class="judul" href="">
                   Judul Berita
