@@ -62,6 +62,10 @@
   border-color: #a0e418;
   color: #a0e418;
 }
+
+.next {
+  margin-top: 30px;
+}
 /* akhir start */
 
 /* h1 berita */
@@ -77,7 +81,7 @@
 /* berita HL */
 .judul {
   color: #10b601 !important;
-  padding-top: 1,75rem;
+  padding-top: 1, 75rem;
 }
 
 .tombol1 {
@@ -86,14 +90,10 @@
   color: #10b601;
 }
 
-.tombol1:hover{
+.tombol1:hover {
   background-color: none;
   border-bottom: none;
   color: #075300;
-}
-
-.list1 {
-  background-color: black;
 }
 
 /* akhir berita HL */

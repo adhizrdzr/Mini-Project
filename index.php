@@ -96,7 +96,7 @@
         <div class="col-md-12">
           <div class="row list">
 
-            <div class="col py-md-4 list1">
+            <div class="col py-md-4">
               <a href=""><img src="img/2.jpg" width="350" height="220" alt=""></a>
               <h3>
                 <a class="judul" href="">
@@ -109,7 +109,7 @@
               <div class="btn btn-link tombol1">Selengkapnya</div>
             </div>
 
-            <div class="col py-md-4 list1">
+            <div class="col py-md-4">
               <a href=""><img src="img/3.jpg" width="350" height="220" alt=""></a>
               <h3>
                 <a class="judul" href="">
@@ -122,7 +122,7 @@
               <div class="btn btn-link tombol1">Selengkapnya</div>
             </div>
             
-            <div class="col py-md-4 list1">
+            <div class="col py-md-4">
               <a href=""><img src="img/4.jpg" width="350" height="220" alt=""></a>
               <h3>
                 <a class="judul" href="">
@@ -140,11 +140,70 @@
         </div>
       </div>
     </div>
+
+    <div class="container text-center next">
+      <a href="" class="btn btn-success tombol tombol2">Berita Selengkapnya -></a>
+    </div>
     <!-- akhir card -->
     <!-- Pengumuman -->
     <div class="container">
-      <h1 class="brt">Berita Universitas</h1>
-  </div>
+      <h1 class="brt">Pengumuman</h1>
+    </div>
+
+
+    <!-- list pengumuman -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row">
+
+            <div class="col py-md-3">
+              <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Judul</h5>
+                    <p class="card-text">Isi Pengumuman</p>
+                  </div>
+                  <div class="btn btn-link tombol1 text-white float-left">Selengkapnya</div>
+              </div>
+            </div>
+
+            <div class="col py-md-3">
+             <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Judul</h5>
+                    <p class="card-text">Isi Pengumuman</p>
+                  </div>
+                  <div class="btn btn-link tombol1 text-white float-left">Selengkapnya</div>
+              </div>
+            </div>
+
+            <div class="col py-md-3">
+             <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Judul</h5>
+                    <p class="card-text">Isi Pengumuman</p>
+                  </div>
+                  <div class="btn btn-link tombol1 text-white float-left">Selengkapnya</div>
+              </div>
+            </div>
+
+            <div class="col py-md-3">
+             <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Judul</h5>
+                    <p class="card-text">Isi Pengumuman</p>
+                  </div>
+                  <div class="btn btn-link tombol1 text-white float-left">Selengkapnya</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- akhir list -->
+
+
     <!-- akhir pengumuman -->
 
 
