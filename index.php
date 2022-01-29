@@ -94,45 +94,47 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="row list">
+          <div class="row">
 
-            <div class="col-md-4 py-4">
-              <a href=""><img class="" src="img/2.jpg" width="350" height="220" alt=""></a>
+            <div class="col-md-4 py-4 shadow mt-4 rounded-lg">
+              <a href=""><img class="img-fluid rounded-lg" src="img/2.jpg" style="width: 100%; height: 195px" alt=""></a>
               <h3>
                 <a class="judul" href="">
-                  Judul Berita
+                  Penerimaan Mahasiswa Baru
                 </a>
               </h3>
               <p class="text-muted">
-                Rangkuman isi berita thumbnail[...]
+                Buka stand di acara TABLIGH AKBAR KOMUNITAS REMAJA MUSLIM KARAWANG yang bertema "hidupnya pemuda hanya dengan ilmu & taqwa . Penceramah USTADZ SALIM A FILLAH .[...]
               </p>
               <div class="btn btn-link tombol1">Selengkapnya</div>
             </div>
 
-            <div class="col-md-4 py-4">
-              <a href=""><img class="" src="img/3.jpg" width="350" height="220" alt=""></a>
+            <div class="col-md-4 py-4 shadow mt-4 rounded-lg">
+              <a href=""><img class="img-fluid rounded-lg" src="img/3.jpg" style="width: 100%; height: 195px" alt=""></a>
               <h3>
                 <a class="judul" href="">
-                  Judul Berita
+                  Bakti Sosial Stei Bina Cipta Madani
                 </a>
               </h3>
               <p class="text-muted">
-                Rangkuman isi berita thumbnail[...]
+                Bakti sosial tebar seribu pakaian, yang di laksanakan oleh mahasiswa STEI Bina Cipta Madani untuk masyarakat yang sedang membutuhkan pakaian karna bencana alam.[...]
               </p>
               <div class="btn btn-link tombol1">Selengkapnya</div>
             </div>
             
-            <div class="col-md-4 py-4">
-              <a href=""><img class="" src="img/4.jpg" width="350" height="220" alt=""></a>
+            <div class="col-md-4 py-4 mt-4">
+              <div class="shadow rounded-lg">
+              <a href=""><img class="img-fluid rounded-lg" src="img/4.jpg" style="width: 100%; height: 195px" alt=""></a>
               <h3>
                 <a class="judul" href="">
-                  Judul Berita
+                  STEI Bina Cipta Madani Wisuda Angkatan Kedua
                 </a>
               </h3>
               <p class="text-muted">
-                Rangkuman isi berita thumbnail[...]
+                Suasana haru dan bangga menyelimuti peserta wisuda yang membawa serta keluarga. Setelah kuliah bertahun-tahun, tiba waktunya bagi mereka mengamalkan ilmu yang.[...]
               </p>
               <div class="btn btn-link tombol1">Selengkapnya</div>
+              </div>
               </div>
             </div>
 
@@ -141,7 +143,7 @@
       </div>
     </div>
 
-    <div class="container text-center next">
+    <div class="container text-center next mt-4">
       <a href="" class="btn btn-success tombol tombol2">Berita Selengkapnya -></a>
     </div>
     <!-- akhir card -->
@@ -158,42 +160,42 @@
           <div class="row">
 
             <div class="col py-md-3">
-              <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+              <div class="card bg-lg mb-3 shadow" style="max-width: 18rem;">
                   <div class="card-body">
                     <h5 class="card-title">Judul</h5>
                     <p class="card-text">Isi Pengumuman</p>
                   </div>
-                  <div class="btn btn-link tombol1 text-white float-left">Selengkapnya</div>
+                  <div class="btn btn-link tombol1 float-left">Selengkapnya</div>
               </div>
             </div>
 
             <div class="col py-md-3">
-             <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+             <div class="card bg-lg mb-3 shadow" style="max-width: 18rem;">
                   <div class="card-body">
                     <h5 class="card-title">Judul</h5>
                     <p class="card-text">Isi Pengumuman</p>
                   </div>
-                  <div class="btn btn-link tombol1 text-white float-left">Selengkapnya</div>
+                  <div class="btn btn-link tombol1 float-left">Selengkapnya</div>
               </div>
             </div>
 
             <div class="col py-md-3">
-             <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+             <div class="card bg-lg mb-3 shadow" style="max-width: 18rem;">
                   <div class="card-body">
                     <h5 class="card-title">Judul</h5>
                     <p class="card-text">Isi Pengumuman</p>
                   </div>
-                  <div class="btn btn-link tombol1 text-white float-left">Selengkapnya</div>
+                  <div class="btn btn-link tombol1 float-left">Selengkapnya</div>
               </div>
             </div>
 
             <div class="col py-md-3">
-             <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+             <div class="card bg-lg mb-3 shadow" style="max-width: 18rem;">
                   <div class="card-body">
                     <h5 class="card-title">Judul</h5>
                     <p class="card-text">Isi Pengumuman</p>
                   </div>
-                  <div class="btn btn-link tombol1 text-white float-left">Selengkapnya</div>
+                  <div class="btn btn-link tombol1 float-left">Selengkapnya</div>
               </div>
             </div>
 
