@@ -10,10 +10,9 @@
 
     <!-- My Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Vidaloka&display=swap" rel="stylesheet">
- 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
     <!-- CSS -->
     <link rel="stylesheet" href="style.css">
-
 
     <title>STEI Bina Cipta Madani</title>
   </head>
@@ -209,13 +208,66 @@
         </div>
       </div>
     </div>
-    <!-- akhir list -->
-
-
     <!-- akhir pengumuman -->
 
-
-
+    <!-- footer -->
+    <footer>
+        	<div class="footer-top bg-dark mt-5 py-4 text-white bawah">
+		        <div class="container">
+		        	<div class="row">
+		        		<div class="col-md-3 footer-about wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+		        			<img class="logo-footer mb-3" src="img/69960061_103558497703856_4205201380001972224_n-removebg-preview.png" width="70" Height="50" alt="logo-footer">
+		        			<p>
+		        				Kampus Stei Bina Cipta Madani, Kampus pertama berbasis Syariah di Karawang
+		        			</p>
+		        			<p><a class="tombol1" href="#">Tentang Kampus</a></p>
+	                    </div>
+		        		<div class="col-md-4 offset-md-1 footer-contact wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+		        			<h3 class="mb-4">Contact</h3>
+		                	<p><i class="fas fa-map-marker-alt"></i> Stei BCM Karawang, Ruko Bispark</p>
+		                	<p><i class="fas fa-phone"></i> Phone: (+62) 812 345 678 90</p>
+		                	<p><i class="fas fa-envelope"></i> Email: <a class="tombol1" href="admin@bcm.co.id">admin@bcm.co.id</a></p>
+		                	<p><i class="fab fa-skype"></i> Skype: Stei BCM</p>
+	                    </div>
+	                    <div class="col-md-4 footer-links wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+	                    	<div class="row">
+	                    		<div class="col">
+	                    			<h3>Links</h3>
+	                    		</div>
+	                    	</div>
+	                    	<div class="row">
+	                    		<div class="col-md-6">
+	                    			<p><a class="scroll-link tombol1" href="#top-content">Home</a></p>
+	                    			<p><a class="tombol1" href="#">Tentang Kampus</a></p>
+	                    			<p><a class="tombol1" href="#">Berita</a></p>
+	                    			<p><a class="tombol1" href="#">Pengumuman</a></p>
+	                    		</div>
+	                    		<div class="col-md-6">
+	                    			<p><a class="tombol1" href="#">Contact Us</a></p>
+	                    		</div>
+	                    	</div>
+	                    </div>
+		            </div>
+		        </div>
+	        </div>
+	        <div class="footer-bottom bg-dark py-2">
+	        	<div class="container">
+	        		<div class="row">
+	           			<div class="col-md-6 footer-copyright text-white">
+	                    	© Copyright By <a class="tombol1" href="https://azmind.com">Adhi Nur Fajar</a>
+	                    </div>
+	           			<div class="col-md-6 footer-social">
+	                    	<a class="tombol1 float-right pr-3" href="#"><i class="fab fa-facebook-f"></i></a> 
+							          <a class="tombol1 float-right pr-3" href="#"><i class="fab fa-twitter"></i></a> 
+							          <a class="tombol1 float-right pr-3" href="#"><i class="fab fa-google-plus-g"></i></a> 
+							          <a class="tombol1 float-right pr-3" href="#"><i class="fab fa-instagram"></i></a> 
+							          <a class="tombol1 float-right pr-3" href="#"><i class="fab fa-pinterest"></i></a>
+	                    </div>
+	           		</div>
+	        	</div>
+	        </div>
+        </footer>
+    <!-- akhir footer -->
 
 
 

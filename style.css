@@ -78,6 +78,7 @@
 }
 /* akhir h1 berita */
 
+
 /* berita HL */
 .judul {
   color: #10b601 !important;
@@ -97,6 +98,10 @@
 }
 
 /* akhir berita HL */
+
+.bawah {
+  margin-top: 100px;
+}
 
 /* Desktop Version */
 @media (min-width: 992px) {
