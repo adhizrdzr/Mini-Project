@@ -78,11 +78,15 @@
 }
 /* akhir h1 berita */
 
-
 /* berita HL */
 .judul {
   color: #10b601 !important;
   padding-top: 1, 75rem;
+}
+
+.subjudul {
+  color: #10b601 !important;
+  padding-left: 50%;
 }
 
 .tombol1 {

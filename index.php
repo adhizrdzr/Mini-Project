@@ -35,7 +35,7 @@
           <a class="nav-link text-white" href="#">Tentang Kampus</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="#">Berita</a>
+          <a class="nav-link text-white" href="details.php">Berita</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-white" href="#">Pengumuman</a>
