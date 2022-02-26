@@ -42,7 +42,7 @@
           <a class="nav-link text-white" href="#">Pengumuman</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="#">Contact Us</a>
+          <a class="nav-link text-white" href="form.php">Contact Us</a>
         </li>
       </ul>
     </div>
@@ -71,18 +71,16 @@
 						</p>
 					</div>
 
-					<div class="col-md-4 mt-4">
-						<h3 class="mx-4 my-4">Terbaru</h3>
-						<h5>
-						<a style="text-align:justify;" href=""><img class="img-fluid rounded-lg text-dark mx-4" src="img/3.jpg" style="float:Left; margin: 0 0px 0px 0; width: 95px; height: 80px" alt="">Belajarlah Lebih Giat, Agar Dapat Duit Banyak</a>
+					<div class="col-md-4 mt-3">
+						<h3 class="mx-4 my-3 pb-1 brt">Terbaru</h3>
+						<h5 class="shadow py-3 rounded-lg">
+						<a style="text-align:justify; color:black;" href=""><img class="img-fluid rounded-lg text-dark mx-4" src="img/3.jpg" style="float:Left; margin: 0 0px 0px 0; width: 95px; height: 80px" alt="">Belajarlah Lebih Giat, Agar Dapat Duit Banyak</a>
 						</h5><br>
-						<br>
-						<h5>
-						<a style="text-align:justify;" href=""> <img class="img-fluid rounded-lg text-dark mx-4" src="img/3.jpg" style="float:Left; margin: 0 0px 0px 0; width: 95px; height: 80px" alt="">Belajarlah Lebih Giat, Agar Dapat Duit Banyak</a>
+						<h5 class="shadow py-3 rounded-lg">
+						<a style="text-align:justify; color:black;" href=""> <img class="img-fluid rounded-lg text-dark mx-4" src="img/3.jpg" style="float:Left; margin: 0 0px 0px 0; width: 95px; height: 80px" alt="">Belajarlah Lebih Giat, Agar Dapat Duit Banyak</a>
 						</h5><br>
-						<br>
-						<h5>
-						<a style="text-align:justify;" href=""><img class="img-fluid rounded-lg text-dark mx-4" src="img/3.jpg" style="float:Left; margin: 0 0px 0px 0; width: 95px; height: 80px" alt="">Belajarlah Lebih Giat, Agar Dapat Duit Banyak</a>
+						<h5 class="shadow py-3 rounded-lg">
+						<a style="text-align:justify; color:black;" href=""><img class="img-fluid rounded-lg text-dark mx-4" src="img/3.jpg" style="float:Left; margin: 0 0px 0px 0; width: 95px; height: 80px" alt="">Belajarlah Lebih Giat, Agar Dapat Duit Banyak</a>
 						</h5>
 					</div>
 				</div>

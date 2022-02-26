@@ -41,7 +41,7 @@
           <a class="nav-link text-white" href="#">Pengumuman</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="#">Contact Us</a>
+          <a class="nav-link text-white" href="form.php">Contact Us</a>
         </li>
       </ul>
     </div>
